@@ -31,7 +31,11 @@ void compareBalance(BankAccount a, BankAccount b) {
         cout << "Customer Name: " << b.customerName << endl;
         cout << "Balance: " << b.balance << endl;
     }
+
+
 }
+
+
 
 int main() {
 
